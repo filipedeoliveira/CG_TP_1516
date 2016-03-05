@@ -1,0 +1,9 @@
+parte1generator.exe cone 1 2 20 7 cone.3d;
+parte1generator.exe esfera 1 10 10 esfera.3d;
+parte1generator.exe plano 1 1 plano.3d;
+parte1generator.exe paralelepipedo 1 1 1 paralelepipedo.3d;
+
+parte1motor.exe cone.xml
+parte1motor.exe paralelepipedo.xml
+parte1motor.exe esfera.xml
+parte1motor.exe plano.xml

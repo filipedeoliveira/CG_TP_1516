@@ -1,0 +1,9 @@
+﻿  motor.cpp
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1motor\parte1motor\motor.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1motor\parte1motor\motor.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1motor\parte1motor\motor.cpp(92): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1motor\parte1motor\motor.cpp(97): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  parte1motor.vcxproj -> C:\Users\Filipe Oliveira\Desktop\CGtp1.grupo19\parte1motor\Debug\parte1motor.exe

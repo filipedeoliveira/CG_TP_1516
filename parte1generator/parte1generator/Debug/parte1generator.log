@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(73): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(69): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\filipe oliveira\desktop\cgtp1.grupo19\parte1generator\parte1generator\source.cpp(141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  parte1generator.vcxproj -> C:\Users\Filipe Oliveira\Desktop\CGtp1.grupo19\parte1generator\Debug\parte1generator.exe
